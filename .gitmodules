@@ -9,4 +9,4 @@
 	url = https://github.com/centrifuge/dss.git
 [submodule "lib/rwa-example"]
 	path = lib/rwa-example
-	url = https://github.com/livnev/rwa-example
+	url = https://github.com/dapp-org/rwa-example
